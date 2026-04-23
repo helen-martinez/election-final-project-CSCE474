@@ -1,0 +1,5 @@
+Objective: Question Answered
+1: What does the data look like?
+2: What are people talking about?
+3: How does harmful content behave?
+4: When and why does it increase?

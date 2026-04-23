@@ -61,22 +61,22 @@ output/use24xd_analysis/
 Important outputs:
 
 Event Window
-- event_window_harmful_share.png
+- 45_event_window_harmful_share.png
 
 Weekly Harmful Share
-- timeseries_harmful_share.png
+- 41_timeseries_harmful_share.png
 
 Harmful Categories Over Time
-- timeseries_harmful_labels.png
+- 42_timeseries_harmful_labels.png
 
 Topic Stream Plot
-- topic_stream_area.png
+- 44_timeseries_topic_stream_area.png
 
 Heatmap
-- label_heatmap.png
+- 43_timeseries_label_heatmap.png
 
 Post Volume
-- weekly_post_volume.png
+- 02_weekly_post_volume.png
 
 
 ## Validation interpretation

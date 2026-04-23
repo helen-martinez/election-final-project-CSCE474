@@ -1,6 +1,6 @@
 # USE24-XD Election Discourse Analysis Pipeline
 
-This pipeline uses the USE24-XD dataset: https://github.com/Sensify-Lab/USE24-XD ('U.S_Election_2024_Xcom_Dataset.csv')
+This pipeline uses the USE24-XD dataset: https://github.com/Sensify-Lab/USE24-XD ('U.S_Election_2024_Xcom_Dataset.csv') & ('Human_Annotation_Subset.csv')
 
 1. Data preprocessing
 2. Topic detection and clustering

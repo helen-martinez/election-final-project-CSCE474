@@ -1,0 +1,6 @@
+label,n,accuracy,precision,recall,f1,true_positive,false_positive,true_negative,false_negative,human_positive_rate,dataset_positive_rate
+Speculation,3,1.0,1.0,1.0,1.0,2,0,1,0,0.6666666666666666,0.6666666666666666
+Sensationalism,3,0.3333333333333333,0.3333333333333333,1.0,0.5,1,2,0,0,0.3333333333333333,1.0
+Conspiracy,3,0.6666666666666666,0.0,0.0,0.0,0,1,2,0,0.0,0.3333333333333333
+Satire,3,1.0,0.0,0.0,0.0,0,0,3,0,0.0,0.0
+Hate_Speech,3,0.6666666666666666,0.0,0.0,0.0,0,0,2,1,0.3333333333333333,0.0

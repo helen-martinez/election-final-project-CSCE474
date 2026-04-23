@@ -1,0 +1,8 @@
+metric,value
+rows,71772
+unique_authors,45196
+min_date,2024-10-17 21:11:30+00:00
+max_date,2025-03-11 19:00:45+00:00
+english_rows,71772
+any_harmful_share,0.5643705066042468
+avg_engagement,12.85263055230452

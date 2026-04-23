@@ -7,7 +7,7 @@ This pipeline uses the USE24-XD dataset: https://github.com/Sensify-Lab/USE24-XD
 3. Sentiment and association analysis
 4. Time-series analysis
 
-It also adds a validation stage using `Human_Annotation_Subset.csv`.
+It also has a validation stage using `Human_Annotation_Subset.csv`.
 
 ## Folder setup
 

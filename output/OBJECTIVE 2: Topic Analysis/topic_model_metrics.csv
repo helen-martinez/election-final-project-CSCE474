@@ -1,0 +1,4 @@
+model,metric,value
+NMF,reconstruction_error,260.8559061907807
+KMeans_on_SVD,silhouette_score_sampled,0.05402877208247248
+LDA,perplexity,9074.330775376457

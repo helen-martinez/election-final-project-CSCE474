@@ -1,0 +1,181 @@
+topic_id,rank,word,weight,topic_label
+0,1,2024 election,5.075716818142311,2024 election / 2024 / election / like
+0,2,2024,3.275517578095036,2024 election / 2024 / election / like
+0,3,election,2.8761726914349355,2024 election / 2024 / election / like
+0,4,like,0.3956588528341296,2024 election / 2024 / election / like
+0,5,just,0.35144693393443766,2024 election / 2024 / election / like
+0,6,did,0.34903894267490715,2024 election / 2024 / election / like
+0,7,cycle,0.29385422646197956,2024 election / 2024 / election / like
+0,8,democrats,0.28963085534618616,2024 election / 2024 / election / like
+0,9,yes,0.284550507712248,2024 election / 2024 / election / like
+0,10,election cycle,0.283889437345318,2024 election / 2024 / election / like
+0,11,win,0.2834213583663187,2024 election / 2024 / election / like
+0,12,win 2024,0.2656372384341728,2024 election / 2024 / election / like
+0,13,think,0.2604959208262422,2024 election / 2024 / election / like
+0,14,musk,0.25707384167974057,2024 election / 2024 / election / like
+0,15,elon,0.24691430106135365,2024 election / 2024 / election / like
+1,1,presidential,2.7095414272232947,presidential / presidential election / 2024 presidential / 2024
+1,2,presidential election,2.647818990501015,presidential / presidential election / 2024 presidential / 2024
+1,3,2024 presidential,2.2296764573331997,presidential / presidential election / 2024 presidential / 2024
+1,4,2024,0.7884779028979161,presidential / presidential election / 2024 presidential / 2024
+1,5,election,0.7371473137253101,presidential / presidential election / 2024 presidential / 2024
+1,6,states,0.17073278720936227,presidential / presidential election / 2024 presidential / 2024
+1,7,united states,0.14363853775837696,presidential / presidential election / 2024 presidential / 2024
+1,8,united,0.14249332773846546,presidential / presidential election / 2024 presidential / 2024
+1,9,candidate,0.13006644735633216,presidential / presidential election / 2024 presidential / 2024
+1,10,map,0.11911313027644341,presidential / presidential election / 2024 presidential / 2024
+1,11,american,0.1043315757511724,presidential / presidential election / 2024 presidential / 2024
+1,12,voted,0.09852326238977209,presidential / presidential election / 2024 presidential / 2024
+1,13,november,0.09708774111881237,presidential / presidential election / 2024 presidential / 2024
+1,14,winner,0.09667627245540035,presidential / presidential election / 2024 presidential / 2024
+1,15,vote,0.09563001584110978,presidential / presidential election / 2024 presidential / 2024
+2,1,trump,3.3428679674596937,trump / donald / donald trump / president
+2,2,donald,2.003303925713383,trump / donald / donald trump / president
+2,3,donald trump,1.8789511241849577,trump / donald / donald trump / president
+2,4,president,0.8197412844064524,trump / donald / donald trump / president
+2,5,trump 2024,0.5315196433705274,trump / donald / donald trump / president
+2,6,win,0.47294106893194,trump / donald / donald trump / president
+2,7,trumps,0.4550824202176429,trump / donald / donald trump / president
+2,8,musk,0.3697306935404145,trump / donald / donald trump / president
+2,9,elon,0.35374859256988495,trump / donald / donald trump / president
+2,10,victory,0.3486014375948674,trump / donald / donald trump / president
+2,11,president trump,0.2951360275086959,trump / donald / donald trump / president
+2,12,wins,0.2910623862820357,trump / donald / donald trump / president
+2,13,trump wins,0.27744993637537146,trump / donald / donald trump / president
+2,14,elon musk,0.27194684661671975,trump / donald / donald trump / president
+2,15,donald trumps,0.2685071410831092,trump / donald / donald trump / president
+3,1,orange criminal,1.3429942488982758,orange criminal / orange / criminal / criminal jesus
+3,2,orange,1.3178750178066712,orange criminal / orange / criminal / criminal jesus
+3,3,criminal,1.2318284324611852,orange criminal / orange / criminal / criminal jesus
+3,4,criminal jesus,1.0675089531376718,orange criminal / orange / criminal / criminal jesus
+3,5,jesus,1.0534933109142548,orange criminal / orange / criminal / criminal jesus
+3,6,election stolen,0.663757824273043,orange criminal / orange / criminal / criminal jesus
+3,7,assassination attempts,0.6558208514066389,orange criminal / orange / criminal / criminal jesus
+3,8,stolen,0.6533335376498829,orange criminal / orange / criminal / criminal jesus
+3,9,national security,0.6484093989236434,orange criminal / orange / criminal / criminal jesus
+3,10,attempts staged,0.6477560813360913,orange criminal / orange / criminal / criminal jesus
+3,11,threat national,0.6476088646884851,orange criminal / orange / criminal / criminal jesus
+3,12,staged 2024,0.6474828459544656,orange criminal / orange / criminal / criminal jesus
+3,13,clownfolk,0.6474791605666946,orange criminal / orange / criminal / criminal jesus
+3,14,domestic threat,0.6474791605666946,orange criminal / orange / criminal / criminal jesus
+3,15,jesus amp,0.6474791605666946,orange criminal / orange / criminal / criminal jesus
+4,1,day,3.037990052625825,day / election day / day 2024 / election
+4,2,election day,2.6502018142634576,day / election day / day 2024 / election
+4,3,day 2024,0.8337039065025288,day / election day / day 2024 / election
+4,4,election,0.7316602892833167,day / election day / day 2024 / election
+4,5,november,0.6488274931628681,day / election day / day 2024 / election
+4,6,vote,0.6271029800398132,day / election day / day 2024 / election
+4,7,november 2024,0.476094109618296,day / election day / day 2024 / election
+4,8,voting,0.4252598402927337,day / election day / day 2024 / election
+4,9,early,0.3264115690307878,day / election day / day 2024 / election
+4,10,2024,0.3228577713359636,day / election day / day 2024 / election
+4,11,polls,0.27658022999785437,day / election day / day 2024 / election
+4,12,today,0.23777867205934583,day / election day / day 2024 / election
+4,13,day november,0.23485628432543926,day / election day / day 2024 / election
+4,14,days,0.23055106798570485,day / election day / day 2024 / election
+4,15,tuesday,0.22316476835133212,day / election day / day 2024 / election
+5,1,results,3.74965375502272,results / election results / results 2024 / election
+5,2,election results,3.1561115465733045,results / election results / results 2024 / election
+5,3,results 2024,0.787480621195864,results / election results / results 2024 / election
+5,4,election,0.39615291276680464,results / election results / results 2024 / election
+5,5,live,0.26803504845485643,results / election results / results 2024 / election
+5,6,county,0.2604631005693841,results / election results / results 2024 / election
+5,7,2024,0.184319827537143,results / election results / results 2024 / election
+5,8,certify,0.14272151300882133,results / election results / results 2024 / election
+5,9,map,0.14185884453443118,results / election results / results 2024 / election
+5,10,state,0.13811495565590534,results / election results / results 2024 / election
+5,11,certified,0.12677442086034674,results / election results / results 2024 / election
+5,12,elections,0.11503100728760844,results / election results / results 2024 / election
+5,13,states,0.11263828586313931,results / election results / results 2024 / election
+5,14,mozambique,0.11199307537085974,results / election results / results 2024 / election
+5,15,2024 results,0.1117391131632156,results / election results / results 2024 / election
+6,1,2020,2.5784298912201717,2020 / 2020 election / votes / election
+6,2,2020 election,1.3905600273166083,2020 / 2020 election / votes / election
+6,3,votes,0.9414707346473575,2020 / 2020 election / votes / election
+6,4,election,0.7368191156619214,2020 / 2020 election / votes / election
+6,5,million,0.7345781854432437,2020 / 2020 election / votes / election
+6,6,did,0.7106680006048155,2020 / 2020 election / votes / election
+6,7,people,0.674955565609533,2020 / 2020 election / votes / election
+6,8,biden,0.6560813126398699,2020 / 2020 election / votes / election
+6,9,fraud,0.6084966900842486,2020 / 2020 election / votes / election
+6,10,vote,0.6016904746826974,2020 / 2020 election / votes / election
+6,11,2016,0.597249542401139,2020 / 2020 election / votes / election
+6,12,democrats,0.5726480825485395,2020 / 2020 election / votes / election
+6,13,rigged,0.5595698955770965,2020 / 2020 election / votes / election
+6,14,2024,0.5520793227274395,2020 / 2020 election / votes / election
+6,15,just,0.5327422949224051,2020 / 2020 election / votes / election
+7,1,harris,2.4723234544915935,harris / kamala / kamala harris / vice
+7,2,kamala,2.2377231260905868,harris / kamala / kamala harris / vice
+7,3,kamala harris,2.039460020132911,harris / kamala / kamala harris / vice
+7,4,vice,0.40969823536132327,harris / kamala / kamala harris / vice
+7,5,vice president,0.40819770818802625,harris / kamala / kamala harris / vice
+7,6,president,0.37469669487466845,harris / kamala / kamala harris / vice
+7,7,president kamala,0.37258136640641126,harris / kamala / kamala harris / vice
+7,8,harris 2024,0.31484021112045507,harris / kamala / kamala harris / vice
+7,9,campaign,0.2498966281699447,harris / kamala / kamala harris / vice
+7,10,harris won,0.23936029363282418,harris / kamala / kamala harris / vice
+7,11,biden,0.22928241080969577,harris / kamala / kamala harris / vice
+7,12,harris donald,0.21044321561705429,harris / kamala / kamala harris / vice
+7,13,votes,0.1848796097786164,harris / kamala / kamala harris / vice
+7,14,election kamala,0.1521993257540699,harris / kamala / kamala harris / vice
+7,15,joe,0.14684431841489395,harris / kamala / kamala harris / vice
+8,1,general,2.3246820478377233,general / general election / 2024 general / election
+8,2,general election,2.214638998564123,general / general election / 2024 general / election
+8,3,2024 general,1.4878247753340301,general / general election / 2024 general / election
+8,4,election,0.5781380462317085,general / general election / 2024 general / election
+8,5,2024,0.53473838580333,general / general election / 2024 general / election
+8,6,party,0.3856097311423366,general / general election / 2024 general / election
+8,7,vote,0.33169647084844583,general / general election / 2024 general / election
+8,8,november,0.31131201159599425,general / general election / 2024 general / election
+8,9,labour,0.27612676476004,general / general election / 2024 general / election
+8,10,elections,0.2641355421588974,general / general election / 2024 general / election
+8,11,voting,0.21514018099173748,general / general election / 2024 general / election
+8,12,uk,0.21045985810212298,general / general election / 2024 general / election
+8,13,voted,0.20908650387844263,general / general election / 2024 general / election
+8,14,voters,0.20720182992099864,general / general election / 2024 general / election
+8,15,november 2024,0.19937032607603378,general / general election / 2024 general / election
+9,1,won,2.955779957717613,won / won 2024 / trump won / won election
+9,2,won 2024,1.9351672113345633,won / won 2024 / trump won / won election
+9,3,trump won,1.492326962408363,won / won 2024 / trump won / won election
+9,4,won election,0.49234867073206623,won / won 2024 / trump won / won election
+9,5,trump,0.3119264218739365,won / won 2024 / trump won / won election
+9,6,harris won,0.2167196562703906,won / won 2024 / trump won / won election
+9,7,won 2020,0.15933616665473074,won / won 2024 / trump won / won election
+9,8,popular,0.1505346313117194,won / won 2024 / trump won / won election
+9,9,2024,0.1462313428515816,won / won 2024 / trump won / won election
+9,10,popular vote,0.1426657878307481,won / won 2024 / trump won / won election
+9,11,election won,0.13789909320073085,won / won 2024 / trump won / won election
+9,12,landslide,0.13073875599438772,won / won 2024 / trump won / won election
+9,13,election,0.10563775696440762,won / won 2024 / trump won / won election
+9,14,won popular,0.09789612640521113,won / won 2024 / trump won / won election
+9,15,2024 election,0.09296044714107866,won / won 2024 / trump won / won election
+10,1,lost,2.810398680068971,lost / lost 2024 / trump lost / democrats
+10,2,lost 2024,2.2220741808350937,lost / lost 2024 / trump lost / democrats
+10,3,trump lost,0.9395531809347866,lost / lost 2024 / trump lost / democrats
+10,4,democrats,0.5380024799069537,lost / lost 2024 / trump lost / democrats
+10,5,trump,0.532074465682647,lost / lost 2024 / trump lost / democrats
+10,6,admits lost,0.4902853433567996,lost / lost 2024 / trump lost / democrats
+10,7,admits,0.47843354244682373,lost / lost 2024 / trump lost / democrats
+10,8,trump admits,0.4133934914031226,lost / lost 2024 / trump lost / democrats
+10,9,2024 election,0.354887044577567,lost / lost 2024 / trump lost / democrats
+10,10,lost election,0.33123807075743794,lost / lost 2024 / trump lost / democrats
+10,11,democrats lost,0.3219686119948995,lost / lost 2024 / trump lost / democrats
+10,12,2024,0.25852462242941104,lost / lost 2024 / trump lost / democrats
+10,13,election,0.2377775176931047,lost / lost 2024 / trump lost / democrats
+10,14,asswipe,0.1829318463018652,lost / lost 2024 / trump lost / democrats
+10,15,fucking,0.15673790854413372,lost / lost 2024 / trump lost / democrats
+11,1,election 2024,3.448682582318434,election 2024 / 2024 / election / state
+11,2,2024,1.1374969722684003,election 2024 / 2024 / election / state
+11,3,election,1.0487641129272016,election 2024 / 2024 / election / state
+11,4,state,0.2777670274093532,election 2024 / 2024 / election / state
+11,5,swing state,0.202168863933763,election 2024 / 2024 / election / state
+11,6,2024 swing,0.20097313110523726,election 2024 / 2024 / election / state
+11,7,swing,0.1909728829909632,election 2024 / 2024 / election / state
+11,8,assembly,0.1765522481298754,election 2024 / 2024 / election / state
+11,9,live,0.1680351831745409,election 2024 / 2024 / election / state
+11,10,maharashtra,0.14569423320220276,election 2024 / 2024 / election / state
+11,11,assembly election,0.1371316485881669,election 2024 / 2024 / election / state
+11,12,elections,0.1366842855795693,election 2024 / 2024 / election / state
+11,13,arizona,0.13326068071373814,election 2024 / 2024 / election / state
+11,14,usa,0.12890547139953773,election 2024 / 2024 / election / state
+11,15,election2024,0.12446177052531024,election 2024 / 2024 / election / state
